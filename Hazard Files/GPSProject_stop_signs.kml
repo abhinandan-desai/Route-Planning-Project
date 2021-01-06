@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="674">
+        <Style id="677">
+            <IconStyle id="680">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="681">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="676">
+            <description>Speed in knots, instead of altitude</description>
+            <Point id="675">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="679">
+            <name>Point: -77.43940500000001, 43.14091499999999</name>
+            <styleUrl>#677</styleUrl>
+            <Point id="678">
+                <coordinates>-77.43940500000001,43.14091499999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="683">
+            <name>Point: -77.67919833333333, 43.08779333333334</name>
+            <styleUrl>#677</styleUrl>
+            <Point id="682">
+                <coordinates>-77.67919833333333,43.08779333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="685">
+        <Style id="688">
+            <IconStyle id="691">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="692">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="687">
+            <description>Speed in knots, instead of altitude</description>
+            <Point id="686">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="690">
+            <name>Point: -77.44065333333333, 43.14121166666667</name>
+            <styleUrl>#688</styleUrl>
+            <Point id="689">
+                <coordinates>-77.44065333333333,43.14121166666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="694">
+            <name>Point: -77.49425166666667, 43.14068166666666</name>
+            <styleUrl>#688</styleUrl>
+            <Point id="693">
+                <coordinates>-77.49425166666667,43.14068166666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="696">
+            <name>Point: -77.60333666666666, 43.09527333333334</name>
+            <styleUrl>#688</styleUrl>
+            <Point id="695">
+                <coordinates>-77.60333666666666,43.09527333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="698">
+            <name>Point: -77.61094166666666, 43.09493666666667</name>
+            <styleUrl>#688</styleUrl>
+            <Point id="697">
+                <coordinates>-77.61094166666666,43.09493666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

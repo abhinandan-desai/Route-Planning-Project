@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="713">
+        <Style id="716">
+            <IconStyle id="719">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="720">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="747">
+            <IconStyle id="750">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="751">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="756">
+            <IconStyle id="759">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="760">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="769">
+            <IconStyle id="772">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="773">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="715">
+            <description>Speed in knots, instead of altitude</description>
+            <Point id="714">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="718">
+            <name>Point: -77.43963166666667, 43.14004666666666</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="717">
+                <coordinates>-77.43963166666667,43.14004666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="722">
+            <name>Point: -77.48995166666667, 43.145574999999994</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="721">
+                <coordinates>-77.48995166666667,43.145574999999994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="724">
+            <name>Point: -77.49424, 43.14077999999999</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="723">
+                <coordinates>-77.49424,43.14077999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="726">
+            <name>Point: -77.49147166666667, 43.13474333333333</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="725">
+                <coordinates>-77.49147166666667,43.13474333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="728">
+            <name>Point: -77.59670666666666, 43.110473333333324</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="727">
+                <coordinates>-77.59670666666666,43.110473333333324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="730">
+            <name>Point: -77.60332666666666, 43.095333333333336</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="729">
+                <coordinates>-77.60332666666666,43.095333333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="732">
+            <name>Point: -77.63138833333333, 43.09416666666666</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="731">
+                <coordinates>-77.63138833333333,43.09416666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="734">
+            <name>Point: -77.63268500000001, 43.09410166666667</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="733">
+                <coordinates>-77.63268500000001,43.09410166666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="736">
+            <name>Point: -77.67206166666666, 43.092381666666675</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="735">
+                <coordinates>-77.67206166666666,43.092381666666675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="738">
+            <name>Point: -77.67524333333334, 43.09039500000001</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="737">
+                <coordinates>-77.67524333333334,43.09039500000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="740">
+            <name>Point: -77.67722833333333, 43.08917499999999</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="739">
+                <coordinates>-77.67722833333333,43.08917499999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="742">
+            <name>Point: -77.679145, 43.086755</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="741">
+                <coordinates>-77.679145,43.086755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="744">
+            <name>Point: -77.67949666666667, 43.085570000000004</name>
+            <styleUrl>#716</styleUrl>
+            <Point id="743">
+                <coordinates>-77.67949666666667,43.085570000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="746">
+            <description>Speed in knots, instead of altitude</description>
+            <Point id="745">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="749">
+            <name>Point: -77.43940500000001, 43.14091499999999</name>
+            <styleUrl>#747</styleUrl>
+            <Point id="748">
+                <coordinates>-77.43940500000001,43.14091499999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="753">
+            <name>Point: -77.67919833333333, 43.08779333333334</name>
+            <styleUrl>#747</styleUrl>
+            <Point id="752">
+                <coordinates>-77.67919833333333,43.08779333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="755">
+            <description>Speed in knots, instead of altitude</description>
+            <Point id="754">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="758">
+            <name>Point: -77.44065333333333, 43.14121166666667</name>
+            <styleUrl>#756</styleUrl>
+            <Point id="757">
+                <coordinates>-77.44065333333333,43.14121166666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="762">
+            <name>Point: -77.49425166666667, 43.14068166666666</name>
+            <styleUrl>#756</styleUrl>
+            <Point id="761">
+                <coordinates>-77.49425166666667,43.14068166666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="764">
+            <name>Point: -77.60333666666666, 43.09527333333334</name>
+            <styleUrl>#756</styleUrl>
+            <Point id="763">
+                <coordinates>-77.60333666666666,43.09527333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="766">
+            <name>Point: -77.61094166666666, 43.09493666666667</name>
+            <styleUrl>#756</styleUrl>
+            <Point id="765">
+                <coordinates>-77.61094166666666,43.09493666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="768">
+            <description>Speed in knots, instead of altitude</description>
+            <Point id="767">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="771">
+            <name>Point: -77.61311500000001, 43.09484666666667</name>
+            <styleUrl>#769</styleUrl>
+            <Point id="770">
+                <coordinates>-77.61311500000001,43.09484666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="775">
+            <name>Point: -77.63264000000001, 43.09411333333334</name>
+            <styleUrl>#769</styleUrl>
+            <Point id="774">
+                <coordinates>-77.63264000000001,43.09411333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="777">
+            <name>Point: -77.67965333333333, 43.085563333333326</name>
+            <styleUrl>#769</styleUrl>
+            <Point id="776">
+                <coordinates>-77.67965333333333,43.085563333333326,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

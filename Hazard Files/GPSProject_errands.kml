@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="700">
+        <Style id="703">
+            <IconStyle id="706">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="707">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="702">
+            <description>Speed in knots, instead of altitude</description>
+            <Point id="701">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="705">
+            <name>Point: -77.61311500000001, 43.09484666666667</name>
+            <styleUrl>#703</styleUrl>
+            <Point id="704">
+                <coordinates>-77.61311500000001,43.09484666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="709">
+            <name>Point: -77.63264000000001, 43.09411333333334</name>
+            <styleUrl>#703</styleUrl>
+            <Point id="708">
+                <coordinates>-77.63264000000001,43.09411333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="711">
+            <name>Point: -77.67965333333333, 43.085563333333326</name>
+            <styleUrl>#703</styleUrl>
+            <Point id="710">
+                <coordinates>-77.67965333333333,43.085563333333326,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

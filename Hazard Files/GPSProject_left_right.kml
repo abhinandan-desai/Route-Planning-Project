@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="641">
+        <Style id="644">
+            <IconStyle id="647">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="648">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="643">
+            <description>Speed in knots, instead of altitude</description>
+            <Point id="642">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="646">
+            <name>Point: -77.43963166666667, 43.14004666666666</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="645">
+                <coordinates>-77.43963166666667,43.14004666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="650">
+            <name>Point: -77.48995166666667, 43.145574999999994</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="649">
+                <coordinates>-77.48995166666667,43.145574999999994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="652">
+            <name>Point: -77.49424, 43.14077999999999</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="651">
+                <coordinates>-77.49424,43.14077999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="654">
+            <name>Point: -77.49147166666667, 43.13474333333333</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="653">
+                <coordinates>-77.49147166666667,43.13474333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="656">
+            <name>Point: -77.59670666666666, 43.110473333333324</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="655">
+                <coordinates>-77.59670666666666,43.110473333333324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="658">
+            <name>Point: -77.60332666666666, 43.095333333333336</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="657">
+                <coordinates>-77.60332666666666,43.095333333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="660">
+            <name>Point: -77.63138833333333, 43.09416666666666</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="659">
+                <coordinates>-77.63138833333333,43.09416666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="662">
+            <name>Point: -77.63268500000001, 43.09410166666667</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="661">
+                <coordinates>-77.63268500000001,43.09410166666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="664">
+            <name>Point: -77.67206166666666, 43.092381666666675</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="663">
+                <coordinates>-77.67206166666666,43.092381666666675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="666">
+            <name>Point: -77.67524333333334, 43.09039500000001</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="665">
+                <coordinates>-77.67524333333334,43.09039500000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="668">
+            <name>Point: -77.67722833333333, 43.08917499999999</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="667">
+                <coordinates>-77.67722833333333,43.08917499999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="670">
+            <name>Point: -77.679145, 43.086755</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="669">
+                <coordinates>-77.679145,43.086755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="672">
+            <name>Point: -77.67949666666667, 43.085570000000004</name>
+            <styleUrl>#644</styleUrl>
+            <Point id="671">
+                <coordinates>-77.67949666666667,43.085570000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
